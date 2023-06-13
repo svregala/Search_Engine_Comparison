@@ -1,0 +1,11 @@
+Name: Steve Regala
+Search Engine Evaluation (DuckDuckGo compared to Google)
+
+I was assigned to examine the search results for DuckDuckGo. This search engine performed worse compared to Google.
+The average percent overlap is 21.5% and the average Spearman coefficient is -9.295 (rounded to 4 significant digits).
+Having a 21.5% overlap basically means that, for every 10 results compared between each Google and DuckDuckGo, only about 2 results
+would appear to overlap on average, regardless of the result rank. This shows that the algorithm that DuckDuckGo uses underperformed
+when querying the same things as Google. Moreover, since the Spearman coefficient is negative,
+that means that the ranks of results given by DuckDuckGo is dissimilar to the ranks of the results given by Google on average.
+Since the Spearman coefficient is low, this means that the observations have a dissimilar rank.
+Using google as a search engine standard, I conclude that DuckDuckGo performed worse compared to Google.
